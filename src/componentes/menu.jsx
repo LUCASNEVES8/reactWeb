@@ -4,9 +4,14 @@ function Menu() {
 
     return(
         <>
-        <div className="hr">
-        <h1>Menu</h1>
-        </div>
+            <nav className='menu'>
+                <h1 className='logo'>Portal notícias</h1>
+                <ul>
+                    <li>Home</li>
+                    <li>Tecnologia</li>
+                    <li>Contatos</li>
+                </ul>
+            </nav>
         </>
     )
     

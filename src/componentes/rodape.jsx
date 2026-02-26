@@ -4,7 +4,7 @@ function Rodape() {
 
     return(
         <>
-        <div className="hr">
+        <div className="hrrr">
         <h1>Rodapé</h1>
         </div>
         </>
